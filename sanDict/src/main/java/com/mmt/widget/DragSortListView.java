@@ -44,7 +44,7 @@ import android.widget.Checkable;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 
-import com.annie.dictionary.R;
+import sanskritcode.sanDict.R;
 import com.mmt.widget.draglistview.DragSortController;
 import com.mmt.widget.draglistview.DragSortItemView;
 import com.mmt.widget.draglistview.DragSortItemViewCheckable;

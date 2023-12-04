@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.annie.dictionary.R;
+import sanskritcode.sanDict.R;
 
 public class M2tToast extends Toast {
 

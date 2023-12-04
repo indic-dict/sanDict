@@ -8,8 +8,8 @@ import android.util.AttributeSet;
 
 import androidx.appcompat.widget.AppCompatEditText;
 
-import com.annie.dictionary.utils.Utils;
-import com.annie.dictionary.utils.Utils.Def;
+import sanskritcode.sanDict.utils.Utils;
+import sanskritcode.sanDict.utils.Utils.Def;
 
 /**
  * Extends widget.EditText: Custom font for EditText

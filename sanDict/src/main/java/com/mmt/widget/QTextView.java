@@ -8,8 +8,8 @@ import android.util.AttributeSet;
 
 import androidx.appcompat.widget.AppCompatTextView;
 
-import com.annie.dictionary.utils.Utils;
-import com.annie.dictionary.utils.Utils.Def;
+import sanskritcode.sanDict.utils.Utils;
+import sanskritcode.sanDict.utils.Utils.Def;
 
 /**
  * Extends View.TextView: Custom font for TextView

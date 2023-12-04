@@ -19,7 +19,7 @@ import android.view.accessibility.AccessibilityEvent;
 import androidx.core.view.MotionEventCompat;
 import androidx.core.view.ViewCompat;
 
-import com.annie.dictionary.R;
+import sanskritcode.sanDict.R;
 
 public class SlidingUpPanelLayout extends ViewGroup {
 

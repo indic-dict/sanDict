@@ -31,7 +31,7 @@ static void LookupProgressCB(double progress) {
 	if (NULL == g_env)
 		return;
 
-	clazz = (*g_env)->FindClass(g_env, "com/annie/dictionary/QDictEng");
+	clazz = (*g_env)->FindClass(g_env, "sanskritcode/sanDict/QDictEng");
 
 	(*g_env)->CallStaticVoidMethod(g_env, clazz,
 			(*g_env)->GetStaticMethodID(g_env, clazz, "lookupProgressCB",
@@ -92,7 +92,7 @@ jobjectArray LookupWords(JNIEnv* env, jobject thiz, jstring word,
 	return objArray;
 }
 
-jboolean Java_com_annie_dictionary_QDictEng_LoadDicts(JNIEnv* env, jobject thiz,
+jboolean Java_sanskritcode_sanDict_QDictEng_LoadDicts(JNIEnv* env, jobject thiz,
 		jobjectArray paths, jobjectArray names, jintArray types) {
 	int i = 0, count = 0;
 	char * strUTF = NULL;
@@ -142,7 +142,7 @@ jboolean Java_com_annie_dictionary_QDictEng_LoadDicts(JNIEnv* env, jobject thiz,
 	return TRUE;
 }
 
-jboolean Java_com_annie_dictionary_QDictEng_UnloadDicts(JNIEnv* env,
+jboolean Java_sanskritcode_sanDict_QDictEng_UnloadDicts(JNIEnv* env,
 		jobject thiz) {
 	if (NULL != g_pDictEng) {
 		DictEng_Release(g_pDictEng);
@@ -151,26 +151,26 @@ jboolean Java_com_annie_dictionary_QDictEng_UnloadDicts(JNIEnv* env,
 	return TRUE;
 }
 
-void Java_com_annie_dictionary_QDictEng_CancelLookup(JNIEnv* env, jobject thiz) {
+void Java_sanskritcode_sanDict_QDictEng_CancelLookup(JNIEnv* env, jobject thiz) {
 	DictEng_SetLookupCancel(g_pDictEng, TRUE);
 }
 
-jobjectArray Java_com_annie_dictionary_QDictEng_PatternListWords(JNIEnv* env,
+jobjectArray Java_sanskritcode_sanDict_QDictEng_PatternListWords(JNIEnv* env,
 		jobject thiz, jstring word) {
 	return LookupWords(env, thiz, word, LIST_WORDS_PATTERN);
 }
 
-jobjectArray Java_com_annie_dictionary_QDictEng_FuzzyListWords(JNIEnv* env,
+jobjectArray Java_sanskritcode_sanDict_QDictEng_FuzzyListWords(JNIEnv* env,
 		jobject thiz, jstring word) {
 	return LookupWords(env, thiz, word, LIST_WORDS_FUZZY);
 }
 
-jobjectArray Java_com_annie_dictionary_QDictEng_ListWords(JNIEnv* env,
+jobjectArray Java_sanskritcode_sanDict_QDictEng_ListWords(JNIEnv* env,
 		jobject thiz, jstring word) {
 	return LookupWords(env, thiz, word, LIST_WORDS_NORMAL);
 }
 
-jobjectArray Java_com_annie_dictionary_QDictEng_FullTextListWords(JNIEnv* env,
+jobjectArray Java_sanskritcode_sanDict_QDictEng_FullTextListWords(JNIEnv* env,
 		jobject thiz, jstring word) {
 	jclass objClass;
 	jobjectArray objArray = NULL;
@@ -250,7 +250,7 @@ jobjectArray Java_com_annie_dictionary_QDictEng_FullTextListWords(JNIEnv* env,
 	return objArray;
 }
 
-jobjectArray Java_com_annie_dictionary_QDictEng_Lookup(JNIEnv* env,
+jobjectArray Java_sanskritcode_sanDict_QDictEng_Lookup(JNIEnv* env,
 		jobject thiz, jstring word, jint type) {
 	jclass objClass;
 	jobjectArray objArray = NULL;
@@ -338,7 +338,7 @@ jobjectArray Java_com_annie_dictionary_QDictEng_Lookup(JNIEnv* env,
 	return objArray;
 }
 
-jobjectArray Java_com_annie_dictionary_QDictEng_GetInfo(JNIEnv* env,
+jobjectArray Java_sanskritcode_sanDict_QDictEng_GetInfo(JNIEnv* env,
 		jobject thiz, jstring ifoPath) {
 	jclass objClass;
 	jobjectArray objArray = NULL;
@@ -383,7 +383,7 @@ jobjectArray Java_com_annie_dictionary_QDictEng_GetInfo(JNIEnv* env,
 	} else
 		return NULL;
 }
-jstring Java_com_annie_dictionary_QDictEng_GetBookName(JNIEnv* env,
+jstring Java_sanskritcode_sanDict_QDictEng_GetBookName(JNIEnv* env,
 		jobject thiz, jstring ifoPath) {
 	char * strIfoPath = NULL;
 	char * strBookName = NULL;
@@ -417,5 +417,5 @@ jint JNI_OnLoad(JavaVM* vm, void* reserved) {
 }
 
 void JNI_OnUnload(JavaVM *vm, void *reserved) {
-	Java_com_annie_dictionary_QDictEng_UnloadDicts(NULL, NULL);
+	Java_sanskritcode_sanDict_QDictEng_UnloadDicts(NULL, NULL);
 }
