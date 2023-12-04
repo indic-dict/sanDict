@@ -1,9 +1,7 @@
 # SanDict
 This is an open source Android dictionary application which support `stardict` format dictionaries.
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.annie.dictionary.fork/)
+Current status: Can build and run. But app is slow, misses many frames and gets stuck, and does not find dictionaries. 
 
 ## Fork information
 This fork of a fork of the abandoned [namndev/Qdict](https://github.com/namndev/QDict), created to incorporate patches and serve the special purposes of the sanskrit community.
