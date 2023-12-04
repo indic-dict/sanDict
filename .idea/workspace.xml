@@ -9,22 +9,249 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44a40b0-6cad-4bff-9551-aa106a632432" name="Default" comment="" />
-    <ignored path="QDict.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b44a40b0-6cad-4bff-9551-aa106a632432" name="Default" comment="Rename to sandict. won't build.">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastlane/metadata/android/en-US/full_description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fastlane/metadata/android/en-US/full_description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastlane/metadata/android/en-US/title.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fastlane/metadata/android/en-US/title.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/import-summary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/fonts/AWLPhonetics3U.TTF" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/fonts/AWLPhonetics3U.TTF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/fonts/Antipasto.otf" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/fonts/Antipasto.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/fonts/ComicSansMS.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/fonts/ComicSansMS.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/fonts/KPhonetic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/fonts/KPhonetic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/fonts/Nunito.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/fonts/Nunito.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/fonts/Roboto.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/fonts/Roboto.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/fonts/SanFranciscoRegular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/fonts/SanFranciscoRegular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/fonts/TimesNewRoman.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/fonts/TimesNewRoman.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/fonts/Unicode.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/fonts/Unicode.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/assets/whatsnew.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/assets/whatsnew.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/Application.mk" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/Application.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/DictEng.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/DictEng.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/DictEng.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/DictEng.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/DictIndexUtil.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/DictIndexUtil.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/DictIndexUtil.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/DictIndexUtil.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/DictZipLib.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/DictZipLib.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/DictZipLib.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/DictZipLib.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/IdxsynFile.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/IdxsynFile.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/IdxsynFile.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/IdxsynFile.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/InfoFile.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/InfoFile.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/InfoFile.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/InfoFile.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/OffsetIndex.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/OffsetIndex.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/OffsetIndex.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/OffsetIndex.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/QDictEng.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/QDictEng.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/doc/StarDictFileFormat.htm" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/doc/StarDictFileFormat.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/doc/ToDo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/doc/ToDo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/plugs/DictPlugs.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/plugs/DictPlugs.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/plugs/DictPlugs.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/plugs/DictPlugs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/plugs/Powerword.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/plugs/Powerword.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/plugs/Powerword.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/plugs/Powerword.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/DictDef.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/DictDef.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/DictUtils.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/DictUtils.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/DictUtils.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/DictUtils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/Distance.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/Distance.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/Distance.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/Distance.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/MapFile.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/MapFile.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/MapFile.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/MapFile.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/Pattern.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/Pattern.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/Pattern.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/Pattern.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/QSort.c" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/QSort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/cpp/utils/mylog.h" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/cpp/utils/mylog.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/BaseActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/DictSpeechEng.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/DictSpeechEng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/DictWebViewClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/DictWebViewClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/MyArrayAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/MyArrayAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/PathSelectActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/PathSelectActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/QDictEng.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/QDictEng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/QDictions.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/QDictions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/frags/BaseListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/frags/BaseListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/frags/ListDictFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/frags/ListDictFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/frags/NavigatorFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/frags/NavigatorFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/frags/PreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/frags/PreferenceFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/frags/PreferenceManagerCompat.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/frags/PreferenceManagerCompat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/frags/RecentFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/frags/RecentFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/frags/SearchFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/frags/SearchFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/frags/SettingFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/frags/SettingFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/service/QDictBootReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/service/QDictBootReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/service/QDictService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/service/QDictService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/standout/StandOutFlags.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/standout/StandOutFlags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/standout/StandOutWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/standout/StandOutWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/standout/TouchInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/standout/TouchInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/standout/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/standout/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/standout/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/standout/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/standout/WindowCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/standout/WindowCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/utils/WebViewClientCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/utils/WebViewClientCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/utils/WordsFileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/annie/dictionary/utils/WordsFileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/app/ActionBarListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/app/ActionBarListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/app/SystemBarTintManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/app/SystemBarTintManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/CheckableLinearLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/CheckableLinearLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/DragSortListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/DragSortListView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/DropDownListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/DropDownListView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/M2tListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/M2tListView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/M2tToast.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/M2tToast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/QButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/QButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/QCheckedTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/QCheckedTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/QEditText.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/QEditText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/QTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/QTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/SlidingUpPanelLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/SlidingUpPanelLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/ViewDragHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/ViewDragHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/draglistview/DragSortController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/draglistview/DragSortController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/draglistview/DragSortCursorAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/draglistview/DragSortCursorAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/draglistview/DragSortItemView.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/draglistview/DragSortItemView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/draglistview/DragSortItemViewCheckable.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/draglistview/DragSortItemViewCheckable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/draglistview/ResourceDragSortCursorAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/draglistview/ResourceDragSortCursorAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/draglistview/SimpleDragSortCursorAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/draglistview/SimpleDragSortCursorAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget/draglistview/SimpleFloatViewManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/java/com/mmt/widget/draglistview/SimpleFloatViewManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/anim/push_left_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/anim/push_left_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/anim/push_left_out.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/anim/push_left_out.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/anim/push_right_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/anim/push_right_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/anim/push_right_out.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/anim/push_right_out.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-hdpi/drag.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-hdpi/drag.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-hdpi/ic_mmt_plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-hdpi/ic_mmt_plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-mdpi/ic_mmt_plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-mdpi/ic_mmt_plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/favorite.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/favorite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/favorite_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/favorite_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_about_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_about_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_back_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_back_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_back_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_back_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_close.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_dlg_close.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_dlg_close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_dlg_close_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_dlg_close_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_favorite.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_favorite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_favorite_empty.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_favorite_empty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_file_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_file_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_file_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_file_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_folder_back_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_folder_back_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_folder_back_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_folder_back_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_folder_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_folder_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_folder_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_folder_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_guide.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_guide.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_menu_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_menu_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_menu_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_menu_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_mmt_plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_mmt_plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_recent.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_recent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_recent_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_recent_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_recent_empty.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_recent_empty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_recent_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_recent_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_recycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_recycle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_recycle_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_recycle_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_recycle_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_recycle_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_resize_window.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_resize_window.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_resize_window_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_resize_window_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_rotate_blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_rotate_blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_rotate_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_rotate_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_select_dict.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_select_dict.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_setting.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_setting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_share.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_share.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_speak.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_speak.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_speak_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_speak_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_textfield_search.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_textfield_search.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_voice.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_voice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_voice_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_voice_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_wordslist.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_wordslist.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/ic_wordslist_orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/ic_wordslist_orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xhdpi/unfavorite.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xhdpi/unfavorite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xxhdpi/ic_mmt_plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xxhdpi/ic_mmt_plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable-xxxhdpi/ic_mmt_plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable-xxxhdpi/ic_mmt_plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/above_shadow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/above_shadow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/action_bacground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/action_bacground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/background_toast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/background_toast.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/bamboo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/bamboo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/below_shadow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/below_shadow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/border.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/border.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/color_cursor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/color_cursor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/focus.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/focus.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/focus_orange.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/focus_orange.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/ic_action_pressed.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/ic_action_pressed.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/ic_item_background.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/ic_item_background.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/ic_launcher_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/ic_launcher_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/listview_selected.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/listview_selected.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/drawable/shadow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/drawable/shadow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/capture_window.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/capture_window.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/content_frame.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/content_frame.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/drop_down_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/drop_down_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/file_row.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/file_row.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/file_select.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/file_select.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/fragment_recent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/fragment_recent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/layout_drag.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/layout_drag.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/layout_list_dict.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/layout_list_dict.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/layout_navigatior.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/layout_navigatior.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/layout_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/layout_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/layout_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/layout_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/listitem_check.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/listitem_check.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/navi_row.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/navi_row.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/preference_list_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/preference_list_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/simple_dropdown_item_1line_left.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/simple_dropdown_item_1line_left.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/simple_list_item_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/simple_list_item_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/system_window_decorators.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/system_window_decorators.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/layout/transient_notification.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/layout/transient_notification.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/menu/cabselection_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/menu/cabselection_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/menu/recent_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/menu/recent_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/menu/search_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/menu/search_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-es/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-land/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-sw320dp-land/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values-sw320dp-land/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-sw320dp-xhdpi/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values-sw320dp-xhdpi/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-sw480dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values-sw480dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-sw600dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values-sw600dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-sw720dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values-sw720dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-vi/array.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values-vi/array.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-vi/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values-vi/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-zh-rCN/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values-zh-rTW/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values/array.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values/array.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values/color.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values/color.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values/ids.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values/ids.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values/keys.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values/keys.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qDict/src/main/res/xml/prefs_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sanDict/src/main/res/xml/prefs_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/vvasuki/.android/avd/Pixel_6_API_33.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -46,9 +273,6 @@
         </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="QDict" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -130,6 +354,9 @@
     <option name="KEY_ALIAS" value="m2team" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -187,12 +414,16 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="74" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="827" />
   </component>
+  <component name="ProjectId" id="2Z4zghitkMahNeKVfDWBtvjcgAB" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -214,19 +445,23 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/qDict" />
-    <property name="ExportApk.BuildType" value="release" />
-    <property name="ExportApk.Flavors" value="" />
-    <property name="SearchEverywhereHistoryKey" value="onActionButtonClick&#9;PSI&#9;JAVA://com.annie.dictionary.MainActivity#onActionButtonClick" />
-    <property name="device.picker.selection" value="4d006f9b467d90a9" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/qDict/src/main/res/drawable-hdpi" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget" />
-    <property name="not.eligible.for.single.variant.sync" value="true" />
-    <property name="settings.editor.selected.configurable" value="memory.settings" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/vvasuki/gitland/indic-dict/sanDict/sanDict",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/qDict/src/main/java/com/mmt/widget" />
@@ -236,19 +471,14 @@
       <recent name="$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Android App.qDict-native">
+  <component name="RunManager" selected="Android App.sanDict">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -312,6 +542,12 @@
       </Profilers>
       <method />
     </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -332,30 +568,6 @@
       <envs />
       <patterns />
       <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method>
-        <option name="Make" enabled="false" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -385,32 +597,24 @@
       <listeners />
       <method />
     </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
-    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Auto" />
       <Auto>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
@@ -418,6 +622,8 @@
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Auto>
       <Hybrid>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
@@ -425,50 +631,66 @@
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Hybrid>
-      <Java />
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
       <Native>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
         <option name="SHOW_STATIC_VARS" value="true" />
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="qDict-native" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="qDict" />
+    <configuration name="indic-dict.sanDict.sanDict" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="indic-dict.sanDict.sanDict.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="DEBUGGER_TYPE" value="Hybrid" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
       <Auto>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
         <option name="SHOW_STATIC_VARS" value="true" />
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Auto>
       <Hybrid>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
@@ -476,22 +698,34 @@
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Hybrid>
-      <Java />
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
       <Native>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
         <option name="SHOW_STATIC_VARS" value="true" />
         <option name="WORKING_DIR" value="" />
         <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -528,14 +762,163 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    <configuration name="sanDict-native" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="indic-dict.sanDict.sanDict.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Hybrid" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Callstack Sample" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
-        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sanDict" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="indic-dict.sanDict.sanDict.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Callstack Sample" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="QDict" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="QDict" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -549,10 +932,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Android App.qDict-native" />
+      <item itemvalue="Android App.indic-dict.sanDict.sanDict" />
+      <item itemvalue="Android App.sanDict" />
+      <item itemvalue="Android App.sanDict-native" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -616,6 +1011,10 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rename to sandict. won't build." />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename to sandict. won't build." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/qDict/src/main/java/com/annie/dictionary/frags/BaseListFragment.java">

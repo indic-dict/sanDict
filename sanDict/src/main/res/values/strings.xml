@@ -4,7 +4,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"
     tools:ignore="MissingTranslation">
 
-    <string name="app_name" translatable="false">QDict</string>
+    <string name="app_name" translatable="false">sanDict</string>
     <string name="action_search">Search</string>
 
     <!-- ui -->
@@ -29,7 +29,7 @@
     <string name="delete_all_favorite_summary">Do you want to delete all favorite words?</string>
     <string name="delete_recent_summary">Do you want to delete recent words?</string>
     <string name="delete_favorite_summary">Do you want to delete favorite words?</string>
-    <string name="notification_message">Tap here to open QDict</string>
+    <string name="notification_message">Tap here to open sanDict</string>
     <string name="notification_title">%1$s is running</string>
     <!-- dicitonary -->
     <plurals name="matches_found">
@@ -79,7 +79,7 @@
     <string name="prefs_title_notification">Notification</string>
     <string name="prefs_title_notification_summary">Using notification for quick search</string>
     <string name="prefs_title_tts_summary">Using text to speech</string>
-    <string name="prefs_summary_source" translatable="false">/sdcard/QDict/</string>
+    <string name="prefs_summary_source" translatable="false">/sdcard/dictdata/</string>
     <string name="prefs_category_title_theme">Theme</string>
     <!--  -->
     <string name="prefs_title_font_text">Font in content</string>
@@ -103,7 +103,6 @@
        When you can\'t remember how to spell a word exactly, you can try Fuzzy query. It uses \"Levenshtein Edit Distance\" to compute the similarity between two words, and gives the match results which are most similar to the word that you input. To create a fuzzy query, just input the word with a beginning \"/\", and then press \'wordlist\' button.&lt;br&gt;&lt;br&gt;
        3. Full-text search:&lt;br&gt;
        Full-text search searches for a word in the data. To create a Full-text search, just input the word with a beginning \":\", and then press \'wordlist\' button. For example, \":ab cd\" searches data which contain both \"ab\" and \"cd\". If the words contain space character, you can use \"\\ \", such as \":apple\\ pie\", other escaping characters are \"\\\\\" for \'\\ \', \"\\t\" for Tab and \"\\n\" for new line.&lt;br&gt;&lt;br&gt;
-       For more help information, please read the \'User Guide\' :  &lt;br&gt;
-       &lt;a href="http://madman-team.blogspot.com/2015/05/qdict-guide.html" target="_blank">http://madman-team.blogspot.com&lt;\/a&gt;&lt;br&gt;&lt;br&gt;</string>
+   </string>
 
 </resources>

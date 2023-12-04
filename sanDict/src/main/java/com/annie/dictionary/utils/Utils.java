@@ -391,7 +391,7 @@ public class Utils {
         String PREF_INDEX_CHECKED = "prefs_key_index_checked";
         String PREF_INDEX_ALL = "prefs_key_index_all";
         String PREF_KEY_FONT = "prefs_key_font_text";
-        String DICT_FOLDER = "/dicts";
+        String DICT_FOLDER = "";
         // max count -- max item in wordlist history
         int MAX_COUNT = 99;
         // limit character using google translate free

@@ -18,6 +18,7 @@
         android:theme="@style/AppOrangeTheme">
         <activity
             android:name=".MainActivity"
+            android:exported="true"
             android:hardwareAccelerated="true"
             android:launchMode="singleTop">
             <intent-filter>
@@ -43,6 +44,7 @@
 
         <receiver
             android:name=".service.QDictBootReceiver"
+            android:exported="true"
             android:enabled="true">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED"/>
